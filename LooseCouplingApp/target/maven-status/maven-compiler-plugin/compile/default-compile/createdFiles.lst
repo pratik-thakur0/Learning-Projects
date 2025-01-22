@@ -1,0 +1,7 @@
+learn/spring/TestLooseCoupling.class
+learn/spring/MessageRenderer.class
+learn/spring/StandardOutMessageRenderer.class
+learn/spring/FileOutMessageRenderer.class
+learn/spring/OrderMessageProvider.class
+learn/spring/MessageProvider.class
+learn/spring/HelloWorldMessageProvider.class
